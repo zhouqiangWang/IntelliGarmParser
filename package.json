@@ -1,0 +1,15 @@
+{
+  "name": "intelligarmparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parser.js",
+  "dependencies": {
+    "pdf2json": "^1.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhouqiang.wang@hotmail.com",
+  "license": "ISC"
+}
